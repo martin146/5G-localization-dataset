@@ -8,5 +8,5 @@ Each dataset is prefixed with the appropriate name of the technology, i.e., 5G N
 All datasets are in the same form of CSV file with comma-separated values. The first column represents the *Timestamp*, the following two stand for *Longitude* and *Latitude*, and the remainder represents the RSRP values of individual base stations observed during measurements. In the case of an outage, the RSRP value is set to zero.
 
 | Timestamp | Longitude | Latitude | BS1 | BS2 | BSX| … |
-| ------ |  ------ | ------ | ------ | ------ | ------ | ------ |
+| :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | 1701439521 | 49.227657 | 16.57559 | 0 | -124 | 0 | … |
